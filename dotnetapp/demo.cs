@@ -1,0 +1,4 @@
+const namespace Name
+{
+    gads
+}
